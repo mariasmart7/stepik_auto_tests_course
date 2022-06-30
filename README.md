@@ -1,4 +1,4 @@
-# Full course for Selenium Automation Testing with homework for each module.
+# Course for Automation Testing with Selenium and Python. It contains lessons for each module.
 
 ## module_1: Selenium Basics
 1. Intro
